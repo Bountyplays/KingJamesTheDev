@@ -1,8 +1,1 @@
-<p align = 'left'>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Bountyplays&include_all_commits=true&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bountyplays&theme=github_dark&hide_border=true&exclude_repo=IMDB-Generator" />
-  <br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Welcome+To+My+GitHub.;What+Am+I%3F;1%3A+FiveM+Lua+Developer;2.+Game+Developer+(I+Use+Unreal+Engine+4%2F5);What+I+Do+For+Work%3F;I+Release%2FMake+Scripts+On+FiveM%2C+Primarily+Using+QBCore;Thanks+For+Coming+To+My+GitHub!)](https://git.io/typing-svg)
